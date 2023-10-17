@@ -96,39 +96,31 @@ print("RMSE= ",rmse)
 
     
  # 3. Array value of X
-
  ![image](https://github.com/Jayabharathi3/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120367796/8f8b89cc-7dc2-4c94-89a9-c7a1ef2e8313)
 
 
  # 4. Array value of Y
-
 ![image](https://github.com/Jayabharathi3/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120367796/670cdc76-9c84-4ef9-a007-7a823beb9803)
 
  
  # 5. Values of Y prediction
-
 ![image](https://github.com/Jayabharathi3/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120367796/fe13973c-2bd5-48c4-947b-df3be00b2e0c)
 
  
  # 6. Array values of Y test
- 
 ![image](https://github.com/Jayabharathi3/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120367796/36c77ddd-5696-4a18-9928-05c54c294b0e)
 
  
  # 7. Training Set Graph
- 
 ![training graph](https://github.com/Jayabharathi3/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120367796/d98b6194-0129-447f-8868-7bbf22a804bf)
 
  
  # 8. Test Set Graph
-
 ![mlexp2](https://github.com/Jayabharathi3/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120367796/1992bf3e-c215-4719-a7b5-2f0ab2fc1d5a)
 
  
  # 9. Values of MSE, MAE and RMSE
-
  ![image](https://github.com/Jayabharathi3/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120367796/5b8148b6-f7fb-4385-a5ee-06088509e8dd)
-
 
 
 
